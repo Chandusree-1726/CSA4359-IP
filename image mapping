@@ -1,0 +1,128 @@
+<DOC TYPE html>
+<HTML>
+<HEAD>
+<TITLE>Image Map</TITLE> </HEAD>
+<BODY>
+<center><img src="C:\Users\91849\Pictures\Saved Pictures\indiamap.jpg" ></center> <map name="metroid"
+id="metroid"><br>
+<center>INDIA MAP</center>
+</BODY>
+</HTML>
+<HTML><HEAD>
+<TITLE>About Tamil Nadu</TITLE>
+</HEAD>
+<BODY>
+<CENTER><H1>Tamil Nadu</H1></CENTER> <HR>
+<UL>
+<LI>Area : 1,30,058 Sq. Kms.</LI>
+<LI>Capital : Chennai</LI>
+<LI>Language : Tamil</LI>
+<LI>Population : 6,21,10,839</LI> </UL>
+<UL>
+<LI>Districts: <a href="Districts.html">Chennai</a>, <a href="Districts.html">Coimbatore</a>, <a href="Districts.html">Madurai</a>, etc.</LI>
+<LI>Tourist Places: <a href="TouristPlaces.html">Marina Beach</a>, <a href="TouristPlaces.html">Mahabalipuram</a>, <a href="TouristPlaces.html">Ooty</a>, etc.</LI>
+</hr></UL>
+</BODY>
+</HTML>
+<br>
+<HTML>
+<HEAD>
+<TITLE>About Karnataka</TITLE> </HEAD>
+<BODY>
+<CENTER><H1>Karnataka</H1></CENTER>
+<HR>
+<UL>
+<LI>Area : 1,91,791 Sq. Kms</LI>
+<LI>Capital : Bangalore</LI>
+<LI>Language : Kannada</LI>
+<LI>Population : 5,27,33,958</LI>
+</UL>
+<UL>
+<LI>Districts:</LI>
+<UL>
+  <LI><a href="BangaloreDistrict.html">Bangalore</a></LI>
+  <LI><a href="MysoreDistrict.html">Mysore</a></LI>
+  <LI><a href="HubliDistrict.html">Hubli</a></LI>
+  <!-- Add more district links as needed -->
+</UL>
+</UL>
+
+<UL>
+<LI>Tourist Places:</LI>
+<UL>
+  <LI><a href="HampiTouristPlace.html">Hampi</a></LI>
+  <LI><a href="CoorgTouristPlace.html">Coorg</a></LI>
+  <LI><a href="MysorePalaceTouristPlace.html">Mysore Palace</a></LI>
+  <!-- Add more tourist place links as needed -->
+</UL>
+</UL>
+<hr>
+</BODY>
+</HTML>
+<HTML>
+<HEAD>
+<TITLE>About Andhra Pradesh</TITLE> </HEAD>
+<BODY>
+<CENTER><H1>Andhra Pradesh</H1></CENTER> <HR>
+<UL>
+<LI>Area : 2,75,068 Sq. Kms</LI>
+<LI>Capital : Hyderabad</LI>
+<LI>Language : Telugu</LI>
+<LI>Population : 7,57,27,541</LI>
+</UL>
+<UL>
+<LI>Districts:</LI>
+<UL>
+  <LI><a href="AndhraPradeshDistricts.html">Hyderabad</a></LI>
+  <LI><a href="AndhraPradeshDistricts.html">Vishakhapatnam</a></LI>
+  <LI><a href="AndhraPradeshDistricts.html">Guntur</a></LI>
+  <!-- Add more district links as needed -->
+</UL>
+</UL>
+
+<UL>
+<LI>Tourist Places:</LI>
+<UL>
+  <LI><a href="AndhraPradeshTouristPlaces.html">Araku Valley</a></LI>
+  <LI><a href="AndhraPradeshTouristPlaces.html">Tirupati</a></LI>
+  <LI><a href="AndhraPradeshTouristPlaces.html">Konark Beach</a></LI>
+  <!-- Add more tourist place links as needed -->
+</UL>
+</UL>
+<hr>
+</BODY>
+</HTML>
+<HTML>
+<HEAD>
+<TITLE>About Kerala</TITLE>
+</HEAD>
+<BODY>
+<CENTER>
+<H1>Kerala</H1></CENTER>
+<HR>
+<UL>
+<LI>Area : 38,863 Sq. Kms.</LI>
+<LI>Capital : Thiruvananthapuram</LI>
+<LI>Language : Malayalam</LI>
+<LI>Population : 3,18,38,619</LI>
+</UL>
+<UL>
+<LI>Districts:</LI>
+<UL>
+  <LI><a href="ThiruvananthapuramDistrict.html">Thiruvananthapuram</a></LI>
+  <LI><a href="KochiDistrict.html">Kochi</a></LI>
+  <LI><a href="KozhikodeDistrict.html">Kozhikode</a></LI>
+  <!-- Add more district links as needed -->
+</UL>
+</UL>
+<UL>
+<LI>Tourist Places:</LI>
+<UL>
+  <LI><a href="MunnarTouristPlace.html">Munnar</a></LI>
+  <LI><a href="AlappuzhaTouristPlace.html">Alappuzha</a></LI>
+  <LI><a href="KovalamTouristPlace.html">Kovalam</a></LI>
+  <!-- Add more tourist place links as needed -->
+</UL>
+</UL>
+<hr>
+</BODY></HTML>
