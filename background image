@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Background Image Example</title>
+  <style>
+    /* Set the background image for the body */
+    body {
+      background-image: url('chnadu.jpg'); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+      background-size: cover; /* Adjust the size of the background image */
+      /* You can add more CSS properties to customize the background */
+    }
+  </style>
+</head>
+<body>
+  <!-- Your HTML content here -->
+  <h1>Welcome to My Website</h1>
+  <p>This is a sample text.</p>
+</body>
+</html>
